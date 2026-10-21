@@ -1,0 +1,6 @@
+schema_version: '1.1'
+annotation_level: word
+coordinate_policy_id: voc_numeric_passthrough_v0
+data_root_source: DATA_ROOT_or_CLI
+official_submission_status: unresolved
+test_policy: quarantine

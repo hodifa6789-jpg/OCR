@@ -1,0 +1,1 @@
+{"protocol_id":"eval_local_v0","evaluation_status":"provisional","iou_threshold":0.5,"confidence_threshold":0.0,"geometry":"axis_aligned_bbox_envelope","class_agnostic":true,"zero_denominator_policy":"return_zero","difficult_policy":"reject_nonzero_until_reviewed","truncated_policy":"retain"}

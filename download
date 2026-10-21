@@ -1,0 +1,45 @@
+# Project data and generated files at the repository root
+/reports/private/
+/work/
+/data/
+/datasets/
+/Images/
+/Annotations/
+/YOLO_Annotations/
+/runs/
+/outputs/
+/manifests/
+/splits/
+/raw/
+/processed/
+/weights/
+/checkpoints/
+
+# Archives and model weights
+*.zip
+*.7z
+*.rar
+*.pt
+*.pth
+*.pdparams
+*.pdiparams
+*.onnx
+*.safetensors
+
+# Python environments, caches, and build artifacts
+.venv/
+/venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+/build/
+/dist/
+.coverage
+htmlcov/
+
+# Local secrets
+.env
+.env.*
